@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Residential Refrigerators
-created: '2020-11-12T14:52:30.191640'
-modified: '2021-05-01T05:50:29.404052'
+title: ENERGY STAR Certified Residential Dishwashers
+created: '2020-11-12T14:52:08.943654'
+modified: '2021-05-01T05:49:04.655424'
 state: active
 type: dataset
 tags:
-  - Residential Refrigerators
+  - Residential Dishwashers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/p5st-her9/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/p5st-her9/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/58b3-559d/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/58b3-559d/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 5.0 ENERGY STAR Program Requirements for Residential Refrigerators and Freezers that are effective as of September 15, 2014. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/refrigerators/key_product_criteria
+Certified models meet all ENERGY STAR requirements as listed in the Version 6.0 ENERGY STAR Program Requirements for Residential Dishwashers that are effective as of January 29, 2016. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/dishwashers/key_product_criteria
