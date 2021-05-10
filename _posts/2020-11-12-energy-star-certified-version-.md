@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Version 2.0 Data Center Storage - File I/O
-created: '2020-11-12T14:52:31.474795'
-modified: '2021-05-01T05:50:40.670881'
+title: ENERGY STAR Certified Version 3.0 Enterprise Servers
+created: '2020-11-12T14:52:33.653589'
+modified: '2021-05-01T05:50:41.444479'
 state: active
 type: dataset
 tags:
-  - Data Center Storage
+  - Enterprise Servers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/put7-uu67/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/put7-uu67/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/qifb-fcj2/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/qifb-fcj2/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Data Center Storage that are effective as of March 15, 2021. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/certified-products/detail/data_center_storage
+Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Enterprise Servers that are effective as of June 17, 2019. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/office_equipment/enterprise_servers.
