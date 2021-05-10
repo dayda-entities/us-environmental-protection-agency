@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Version 8.0  Computers
-created: '2020-11-12T14:52:25.228969'
-modified: '2021-05-01T05:50:05.540810'
+title: ENERGY STAR Certified Version 2.0 Room Air Cleaners
+created: '2020-11-12T14:52:26.349594'
+modified: '2021-05-01T05:50:16.863284'
 state: active
 type: dataset
 tags:
-  - Computers
+  - Room Air Cleaners
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/j7nq-iepp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/j7nq-iepp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/jmck-i55n/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/jmck-i55n/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 8.0 ENERGY STAR Program Requirements for Computers that are effective as of October 15, 2020. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/office_equipment/computers/key_product_criteria.
+Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Room Air Cleaners that are effective as of October 17, 2020. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/air_purifiers_cleaners/key_product_criteria
