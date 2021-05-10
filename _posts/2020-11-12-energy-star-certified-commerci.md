@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Steam Cookers
-created: '2020-11-12T14:52:36.885216'
-modified: '2021-05-01T05:51:04.931986'
+title: ENERGY STAR Certified Commercial Clothes Washers
+created: '2020-11-12T14:52:14.834471'
+modified: '2021-05-01T05:49:28.672514'
 state: active
 type: dataset
 tags:
-  - Commercial Steam Cookers
+  - Commercial Clothes Washers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/vtsv-aq9u/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/vtsv-aq9u/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 1.2 ENERGY STAR Program Requirements for Commercial Steam Cookers that are effective as of August 1, 2003. A detailed listing of key efficiency criteria are available at  https://www.energystar.gov/products/commercial_food_service_equipment/commercial_steam_cookers/key_product_criteria
+Certified models meet all ENERGY STAR requirements as listed in the Version 8.0 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 5, 2018. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/clothes_washers/key_product_criteria.
