@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Ovens
-created: '2020-11-12T14:52:27.212745'
-modified: '2021-05-01T05:50:17.179767'
+title: ENERGY STAR Certified Commercial Water Heaters
+created: '2020-11-12T14:52:39.563869'
+modified: '2021-05-01T05:51:17.904810'
 state: active
 type: dataset
 tags:
-  - Commercial Ovens
+  - Commercial Water Heaters
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/kj3z-gvun/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/kj3z-gvun/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/xmq6-bm79/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/xmq6-bm79/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 2.2 ENERGY STAR Program Requirements for Commercial Ovens that are effective as of January 1, 2014. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_ovens/key_product_criteria
+Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Water Heaters that are effective as of  October 1, 2018. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/water_heaters/commercial_water_heaters#specs.
