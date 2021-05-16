@@ -1,26 +1,22 @@
 ---
-title: Toxic Substances Control Act (TSCA) 8(e) Notices and FYI Submissions
-created: '2020-12-03T23:08:55.139798'
-modified: '2020-12-03T23:08:55.139809'
+title: Toxic Substances Control Act Test Submissions 2.0 (TSCATS 2.0)
+created: '2020-12-03T23:08:55.341131'
+modified: '2020-12-03T23:08:55.341138'
 state: active
 type: dataset
 tags:
+  - Datafinder
   - Environment
-  - Environmental Media Topics
   - Health Risks
   - Human Health
-  - Non Point Sources Of Water Pollution
-  - Pollutants Contaminants
-  - Species
-  - Substances
+  - Life Stages Populations
+  - Toxicity
   - United States
-  - Water
-  - Water Pollutants
-  - Water Pollution
+  - Workers Health
 groups: []
-csv_url: 'https://www.epa.gov/assessing-and-managing-chemicals-under-tsca'
+csv_url: 'https://yosemite.epa.gov/oppts/epatscat8.nsf/ReportSearch?OpenForm'
 json_url: ''
 layout: post
 
 ---
-Section 8(e) of the Toxic Substances Control Act (TSCA) requires U.S. chemical manufacturers, importers, processors and distributors to notify EPA within 30 calendar days of new, unpublished information on their chemicals that may lead to a conclusion of substantial risk to human health or to the environment. This data source collects these Section 8(e) notices as well as voluntary submissions (FYI submissions) and organizes them by date.
+The Toxic Substances Control Act Test Submissions 2.0 (TSCATS 2.0) tracks the submissions of health and safety data submitted to the EPA either as required or voluntarily under certain sections of TSCA.
