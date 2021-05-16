@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Fryers
-created: '2020-11-12T14:52:21.620280'
-modified: '2021-05-15T10:45:30.154622'
+title: ENERGY STAR Certified Commercial Hot Food Holding Cabinet
+created: '2020-11-12T14:52:38.319458'
+modified: '2021-05-15T10:47:14.093659'
 state: active
 type: dataset
 tags:
-  - Commercial Fryers
+  - Commercial Hot Food Holding Cabinets
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/edi8-b5vk/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/edi8-b5vk/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/wyw6-sr4d/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/wyw6-sr4d/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Commercial Fryers that are effective as of  October 1, 2016. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_fryers/key_product_criteria.
+Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Hot Food Holding Cabinets that are effective as of October 1, 2011. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_hot_food_holding_cabinets/key_product_criteria.
