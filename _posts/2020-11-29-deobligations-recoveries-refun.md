@@ -1,13 +1,15 @@
 ---
-title: Deobligations Recoveries Refunds Of Prior Year By Award CPE
-created: '2020-11-29T22:03:34.018643'
-modified: '2020-11-29T22:03:34.018654'
+title: Deobligations Recoveries Refunds By TAS_CPE
+created: '2020-11-29T22:03:45.345348'
+modified: '2020-11-29T22:03:45.345354'
 state: active
 type: dataset
 tags:
-  - >-
-    Award Balances By Tas Program Activity Object Class Award Direct
-    Reimbursable Deobligations Rec
+  - A 11
+  - Budgetary Reporting
+  - Current Period Financial Reporting
+  - Deobligations Recoveries Refunds
+  - Omb Circular A 11
 groups: []
 csv_url: >-
   https://files.usaspending.gov/agency_submissions/Raw%20DATA%20Act%20Files/index.html
@@ -15,4 +17,4 @@ json_url: ''
 layout: post
 
 ---
-The amount of downward adjustments to obligations and outlays incurred resulting from deobligations, recoveries, or refunds collected, at the Award level. The adjustments are to the obligations and outlays which were made in a prior year.
+The amount of downward adjustments to obligations and outlays resulting from deobligations, recoveries, or refunds collected, summarized at the TAS level. The adjustments are to the obligations and outlays which were made in a prior year.
