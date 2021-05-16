@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Ovens
-created: '2020-11-12T14:52:27.212745'
-modified: '2021-05-15T10:46:09.432549'
+title: ENERGY STAR Certified Commercial Clothes Washers
+created: '2020-11-12T14:52:14.834471'
+modified: '2021-05-15T10:45:15.660453'
 state: active
 type: dataset
 tags:
-  - Commercial Ovens
+  - Commercial Clothes Washers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/kj3z-gvun/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/kj3z-gvun/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 2.2 ENERGY STAR Program Requirements for Commercial Ovens that are effective as of January 1, 2014. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_ovens/key_product_criteria
+Certified models meet all ENERGY STAR requirements as listed in the Version 8.0 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 5, 2018. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/clothes_washers/key_product_criteria.
