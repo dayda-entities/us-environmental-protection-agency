@@ -1,25 +1,31 @@
 ---
 title: >-
-  Clean Air Markets Clean Air Interstate Rule (CAIR) Annual NOx Program
+  Clean Air Markets Clean Air Interstate Rule (CAIR) NOx Ozone Season Program
   Allowance Holdings
-created: '2020-12-04T18:21:40.262795'
-modified: '2020-12-04T18:21:40.262802'
+created: '2020-12-04T18:21:29.855783'
+modified: '2020-12-04T18:21:29.855793'
 state: active
 type: dataset
 tags:
   - Air Pollution
   - Air Quality
+  - Aq
+  - Cap And Trade
   - Environment
   - Epa
+  - Facilities
+  - Facility
   - Federal Data Download
   - Federal Datasets
+  - Nox
+  - Ozone
   - Power Plants
   - Tradeable Permits
   - United States
 groups: []
-csv_url: 'https://ampd.epa.gov/ampd'
+csv_url: 'https://ampd.epa.gov/ampd/'
 json_url: ''
 layout: post
 
 ---
-Current "allowance holdings" for entities regulated under CAIR NOx Annual "cap and trade" program ... power plants and other facilities
+Current allowance holdings for entities regulated under CAIR NOx Ozone Season cap and trade program ... power plants and other facilities
