@@ -1,7 +1,7 @@
 ---
 title: ENERGY STAR Certified Products - Lighting
 created: '2020-11-12T14:52:09.559368'
-modified: '2021-05-01T05:49:04.780189'
+modified: '2021-05-15T10:44:48.921480'
 state: active
 type: dataset
 tags:
