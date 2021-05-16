@@ -1,7 +1,7 @@
 ---
 title: ENERGY STAR Certified Light Fixtures
 created: '2020-11-12T14:52:37.639854'
-modified: '2021-05-01T05:51:05.650032'
+modified: '2021-05-15T10:47:02.802906'
 state: active
 type: dataset
 tags:
