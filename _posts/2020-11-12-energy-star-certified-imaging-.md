@@ -1,7 +1,7 @@
 ---
 title: ENERGY STAR Certified Imaging Equipment
 created: '2020-11-12T14:52:34.544171'
-modified: '2021-05-01T05:50:52.931006'
+modified: '2021-05-15T10:46:48.587363'
 state: active
 type: dataset
 tags:
