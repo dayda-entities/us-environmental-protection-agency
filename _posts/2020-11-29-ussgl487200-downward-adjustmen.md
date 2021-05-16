@@ -1,15 +1,15 @@
 ---
 title: >-
-  USSGL487200 Downward Adjustments Of Prior Year  Prepaid Advanced Undelivered
+  USSGL487200 Downward Adjustments Of Prior Year Prepaid Advanced Undelivered
   Orders Obligations Refunds Collected CPE
-created: '2020-11-29T22:03:35.015636'
-modified: '2020-11-29T22:03:35.015642'
+created: '2020-11-29T22:03:39.382076'
+modified: '2020-11-29T22:03:39.382086'
 state: active
 type: dataset
 tags:
-  - >-
-    Award Balances By Tas Program Activity Object Class Award Direct
-    Reimbursable Deobligations Rec
+  - Deobligations
+  - Recoveries
+  - Refunds
 groups: []
 csv_url: >-
   https://files.usaspending.gov/agency_submissions/Raw%20DATA%20Act%20Files/index.html
