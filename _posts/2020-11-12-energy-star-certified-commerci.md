@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Dishwashers
-created: '2020-11-12T14:52:30.700357'
-modified: '2021-05-15T10:46:22.856772'
+title: ENERGY STAR Certified Commercial Fryers
+created: '2020-11-12T14:52:21.620280'
+modified: '2021-05-15T10:45:30.154622'
 state: active
 type: dataset
 tags:
-  - Commercial Dishwashers
+  - Commercial Fryers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/pk8q-dim8/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/pk8q-dim8/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/edi8-b5vk/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/edi8-b5vk/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 2.0 ENERGY STAR Program Requirements for Commercial Dishwashers that are effective as of February 1, 2013. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_dishwashers/key_product_criteria.
+Certified models meet all ENERGY STAR requirements as listed in the Version 3.0 ENERGY STAR Program Requirements for Commercial Fryers that are effective as of  October 1, 2016. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/commercial_food_service_equipment/commercial_fryers/key_product_criteria.
