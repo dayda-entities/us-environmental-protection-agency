@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Commercial Clothes Washers
-created: '2020-11-12T14:52:14.834471'
-modified: '2021-05-15T10:45:15.660453'
+title: ENERGY STAR Certified Commercial Coffee Brewers
+created: '2020-11-12T14:52:11.730507'
+modified: '2021-05-15T10:45:01.486523'
 state: active
 type: dataset
 tags:
-  - Commercial Clothes Washers
+  - Commercial Coffee Brewers
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/9g6r-cpdt/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/6xa2-5c2t/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/6xa2-5c2t/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 8.0 ENERGY STAR Program Requirements for Clothes Washers that are effective as of February 5, 2018. A detailed listing of key efficiency criteria are available at https://www.energystar.gov/products/appliances/clothes_washers/key_product_criteria.
+Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Commercial Coffee Brewers that are effective as of July 8, 2016.
