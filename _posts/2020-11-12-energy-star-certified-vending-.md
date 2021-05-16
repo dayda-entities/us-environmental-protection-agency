@@ -1,7 +1,7 @@
 ---
 title: ENERGY STAR Certified Vending Machines
 created: '2020-11-12T14:52:24.732183'
-modified: '2021-05-01T05:50:05.524817'
+modified: '2021-05-15T10:45:56.124028'
 state: active
 type: dataset
 tags:
