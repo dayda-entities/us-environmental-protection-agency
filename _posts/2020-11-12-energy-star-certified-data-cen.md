@@ -1,15 +1,15 @@
 ---
-title: ENERGY STAR Certified Data Center Storage
-created: '2020-11-12T14:52:23.821269'
-modified: '2021-05-15T10:45:43.635359'
+title: ENERGY STAR Certified Data Center Storage (File I/O)
+created: '2020-11-12T14:52:35.072869'
+modified: '2021-05-15T10:46:49.221834'
 state: active
 type: dataset
 tags:
   - Data Center Storage
 groups: []
-csv_url: 'https://data.energystar.gov/api/views/gqtf-hp7x/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.energystar.gov/api/views/gqtf-hp7x/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.energystar.gov/api/views/tzsk-q7aq/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.energystar.gov/api/views/tzsk-q7aq/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Certified models meet all ENERGY STAR requirements as listed in the Version 1.0 ENERGY STAR Program Requirements for Data Center Storage that are effective as of December 2, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/certified-products/detail/data_center_storage
+Certified models meet all ENERGY STAR requirements as listed in the Version 1.1 ENERGY STAR Program Requirements for Data Center Storage that are effective as of December 2, 2013. A detailed listing of key efficiency criteria are available at http://www.energystar.gov/certified-products/detail/data_center_storage
