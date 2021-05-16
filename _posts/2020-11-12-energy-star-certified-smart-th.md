@@ -1,7 +1,7 @@
 ---
 title: ENERGY STAR Certified Smart Thermostats
 created: '2020-11-12T14:52:12.361445'
-modified: '2021-05-01T05:49:16.911889'
+modified: '2021-05-15T10:45:01.643777'
 state: active
 type: dataset
 tags:
