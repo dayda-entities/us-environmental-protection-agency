@@ -1,31 +1,36 @@
 ---
-title: Clean Air Status and Trends Network (CASTNET) Download Data Module
-created: '2020-12-04T18:21:42.600696'
-modified: '2021-02-24T15:31:55.597272'
+title: Clean Air Status and Trends Network (CASTNET) Visibility
+created: '2020-12-04T18:21:31.208147'
+modified: '2020-12-04T18:21:31.208157'
 state: active
 type: dataset
 tags:
+  - Acid Rain
   - Air Pollution
   - Air Quality
+  - Ambient
+  - Ambient Concentrations
+  - Castnet
   - Clean Air Trends
+  - Dry Deposition
   - Environment
   - Epa
   - Federal Data Download
   - Federal Datasets
-  - Monitoring Air
-  - Oxygen
+  - Hno3
+  - Monitoring
+  - Nephelometer
+  - Nitric Acid
   - Ozone
-  - Ozone Concentration
+  - Particles
   - Public Health
-  - Respiratory
+  - So2
   - United States
-groups:
-  - Climate
-csv_url: 'https://java.epa.gov/castnet/clearsession.do'
+  - Visibility
+groups: []
+csv_url: 'https://www.epa.gov/castnet'
 json_url: ''
 layout: post
 
 ---
-The CASTNET Download Data module allows users to select, view, and download CASTNET data (Raw, Aggregate, Modeled & Factual Data) based on user selections.
-  
-CASTNET sites are located in or near rural areas and sensitive ecosystems collecting data on ambient levels of pollutants where urban influences are minimal. CASTNET, which was initiated in 1986, is able to provide data needed to assess and report on geographic patterns and long-term temporal trends in ambient air pollution and dry atmospheric deposition. CASTNET can also be used to track changes in measurements associated with climate change (such as temperature and precipitation).
+Nephelometer data (conforms to IMPROVE network standards) from October 1993 to June 2002. This table is no longer updated.
