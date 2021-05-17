@@ -14,7 +14,7 @@ source_catalog: data.gov
 profile_pic: >-
   https://directory.dayda.org/assets/img/entities/us-environmental-protection-agency.png
 favicon: /assets/img/favicon.png
-url: 'http://u.s.-environmental-protection-agency.dayda.org'
+url: 'http://us-environmental-protection-agency.dayda.org'
 encoding: utf-8
 paginate: 25
 paginate_path: '/page:num/'
